@@ -1,8 +1,56 @@
 [
   {
     "name": "putIT",
-    "desc": "Bloc de notas rápido y eficiente para fsjal OS",
+    "desc": "Bloc de notas rápido y eficiente",
     "version": "1.0",
     "download_url": "https://github.com/elrayaso3311-dev/fsjalOS/releases/download/v1.0/putit"
+  },
+  {
+    "name": "desktop shape",
+    "desc": "Personalización y apariencia del escritorio",
+    "version": "1.0",
+    "download_url": "https://github.com/elrayaso3311-dev/fsjalOS/releases/download/v1.0/desktop-shape"
+  },
+  {
+    "name": "papos",
+    "desc": "El entorno de desarrollo (IDE) nativo de fsjal OS",
+    "version": "0.1",
+    "download_url": "https://github.com/elrayaso3311-dev/fsjalOS/releases/download/v1.0/papos"
+  },
+  {
+    "name": "skippy",
+    "desc": "Procesador de textos avanzado",
+    "version": "1.0",
+    "download_url": "https://github.com/elrayaso3311-dev/fsjalOS/releases/download/v1.0/skippy"
+  },
+  {
+    "name": "press",
+    "desc": "Herramienta de presentaciones visuales",
+    "version": "1.0",
+    "download_url": "https://github.com/elrayaso3311-dev/fsjalOS/releases/download/v1.0/press"
+  },
+  {
+    "name": "num",
+    "desc": "Hoja de cálculo de alto rendimiento",
+    "version": "1.0",
+    "download_url": "https://github.com/elrayaso3311-dev/fsjalOS/releases/download/v1.0/num"
+  },
+  {
+    "name": "senda",
+    "desc": "Cliente de correo electrónico integrado",
+    "version": "1.0",
+    "download_url": "https://github.com/elrayaso3311-dev/fsjalOS/releases/download/v1.0/senda"
+  },
+  {
+    "name": "Fsearch",
+    "desc": "Navegador web ultrarrápido y seguro",
+    "version": "1.2",
+    "download_url": "https://github.com/elrayaso3311-dev/fsjalOS/releases/download/v1.0/fsearch"
+  },
+  {
+    "name": "Gershwin Wallpaper Aqua",
+    "desc": "Fondo de pantalla oficial estilo classic Mac OS para Gershwin Desktop",
+    "version": "1.0",
+    "download_url": "https://raw.githubusercontent.com/elrayaso3311-dev/fsjalOS/main/backgrounds/aqua-wallpaper.png"
   }
 ]
